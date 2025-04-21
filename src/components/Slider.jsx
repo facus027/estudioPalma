@@ -14,8 +14,11 @@ const Slider = () => {
 
   return (
     <div className={`relative ${images[index]} bg-cover bg-center h-96 flex items-center justify-center transition-all duration-1000`}>
-      <img className="md:h-48 h-36 w-auto " src="https://res.cloudinary.com/dwxwejuvu/image/upload/v1744403232/Abogados/n5yjjcodoapzbsplks4c.png" 
-              alt="LogoInicio" />
+      <img className="md:h-48 h-36 w-auto "
+           loading="eager"
+           fetchpriority="high"
+           src="https://res.cloudinary.com/dwxwejuvu/image/upload/f_auto,q_auto/v1744403232/Abogados/n5yjjcodoapzbsplks4c.png" 
+           alt="LogoInicio" />
     </div>
   );
 };

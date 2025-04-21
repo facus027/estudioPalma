@@ -9,7 +9,7 @@ export default function Header() {
           onClick={() => scroll.scrollToTop({ duration: 500, smooth: "easeInOutQuad" })}
           className="cursor-pointer flex items-center"
         >
-          <img className="md:h-12 md:ml-5 h-10 mt-2 md:mt-0" src="https://res.cloudinary.com/dwxwejuvu/image/upload/v1744403232/Abogados/t2dd2d2jqq7ls6ekrxmr.png"
+          <img className="md:h-12 md:ml-5 h-10 mt-2 md:mt-0" src="https://res.cloudinary.com/dwxwejuvu/image/upload/f_auto,q_auto/v1744403232/Abogados/t2dd2d2jqq7ls6ekrxmr.png"
            alt="LogoEstudio" />
         </div>
 

@@ -6,7 +6,7 @@ const profiles = [
     id: 1,
     name: "Fabian Enrique Palma",
     position: "Socio Administrador",
-    image: "https://res.cloudinary.com/dwxwejuvu/image/upload/v1744404044/Abogados/lkj4tiktlu8uf6ix1q84.png",
+    image: "https://res.cloudinary.com/dwxwejuvu/image/upload/f_auto,q_auto/v1744404044/Abogados/lkj4tiktlu8uf6ix1q84.png",
     description: `Abogado, graduado en la Facultad de Ciencias Jurídicas y Sociales de la Universidad
 de Mendoza el 29 de mayo de 1992. Prestó juramento ante la Excma. Suprema Corte
 de Justicia de la Provincia el 11 de junio del mismo año.
@@ -32,7 +32,7 @@ Público de Abogados de la Capital Federal.`
     id: 2,
     name: "M. Monserrat Depetri",
     position: "Asociada",
-    image: "https://res.cloudinary.com/dwxwejuvu/image/upload/v1744404042/Abogados/dvswv6hkpoh2udueqsle.png",
+    image: "https://res.cloudinary.com/dwxwejuvu/image/upload/f_auto,q_auto/v1744404042/Abogados/dvswv6hkpoh2udueqsle.png",
     description: `M. Monserrat Depetri es abogada, graduada en febrero de 2020 en la Universidad Nacional de Cuyo. Actualmente, cursa la Especialización en Asesoramiento Jurídico de Empresas y la Maestría en Derecho Empresario en la Universidad de Mendoza.
 
 Cuenta con experiencia en la Inspección General de Seguridad (IGS), donde se desempeñó como Instructora Sumariante, así como en diversos estudios jurídicos de Mendoza, brindando asistencia jurídica integral con especial enfoque en Derecho Civil y Derecho de las Familias.
@@ -51,7 +51,7 @@ Domina los idiomas español e inglés.`
     id: 3,
     name: "Sabrina D. Maresca",
     position: "Asociada",
-    image: "https://res.cloudinary.com/dwxwejuvu/image/upload/v1744404043/Abogados/uxa7wpizgtcn7wadefde.png",
+    image: "https://res.cloudinary.com/dwxwejuvu/image/upload/f_auto,q_auto/v1744404043/Abogados/uxa7wpizgtcn7wadefde.png",
     description: `Sabrina D. Maresca es abogada, graduada en agosto de 2022 en la Universidad de Mendoza. Actualmente, cursa la Especialización en Asesoramiento Jurídico de Empresas y la Maestría en Derecho Empresario en la misma universidad.
 
 Se desempeña como Ayudante Meritoria de Trabajos Prácticos en la cátedra de Instituciones de Derecho Cambiario y Bancario "A" de la Universidad de Mendoza.

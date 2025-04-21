@@ -6,7 +6,7 @@ export default function Quienes() {
       <section id="quienes" className="max-w-full h-96 pl-10 mb-96 md:mb-0 bg-graylight pt-5">
         <div className=" flex md:flex-row flex-col w-11/12">
           <div className="flex-1 flex items-center justify-center">
-            <img className="md:h-80 w-auto h-auto" src="https://res.cloudinary.com/dwxwejuvu/image/upload/v1744404045/Abogados/txkga3rf96nbuc7whmow.jpg"
+            <img className="md:h-80 w-auto h-auto" src="https://res.cloudinary.com/dwxwejuvu/image/upload/f_auto,q_auto/v1744404045/Abogados/txkga3rf96nbuc7whmow.jpg"
              alt="Equipo" />
           </div>
           <div className="flex-1 flex flex-col space-y-5 w-full  mt-5 xs:mt-16 md:mt-0">

@@ -20,9 +20,9 @@ function App() {
         <Slider/>
       </div>
       <h1
-        className="text-center animate-fadeIn transition-all font-cambria flex flex-col space-y-2 underline-offset-8 italic font-semibold tracking-wide text-2xl xs:text-3xl md:text-4xl text-ocre my-5 mt-7 mb-4 underline"
+        className="text-center md:animate-fadeIn animate-none transition-all font-cambria flex flex-col space-y-2 underline-offset-8 italic font-semibold tracking-wide text-2xl xs:text-3xl md:text-4xl text-ocre my-5 mt-7 mb-4 underline"
       >Estudio Palma & Asociados 
-        <span className="mt-2  font-extralight animate-fadeIn2 transition-all"> Asesoramiento Legal</span>
+        <span className="mt-2  font-extralight md:animate-fadeIn2 animate-none transition-all"> Asesoramiento Legal</span>
       </h1>
       <div>  
         <Quienes/>
