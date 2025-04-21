@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-regular.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-italic.ttf") format("ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Cambria";
+  src: url("/fonts/Rambria.ttf") format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@layer components {
+  /* Aplicando propiedades tailwindCss*/
+  .menu-item {
+    @apply md:mx-7 xs:mx-3 mx-1.5 mb-1 md:mb-0 whitespace-nowrap;
+  }
+
+  .menu-item-a {
+    @apply transition-all hover:text-ocre transform text-sm xs:text-base md:text-lg font-medium hover:font-bold;
+  }
+
+  .area-item {
+    @apply text-start p-1.5 w-full pl-6 md:text-xl xs:text-base text-xs rounded-lg font-semibold font-roboto border-gray-300 hover:scale-110 transition-transform duration-200;
+  }
+
+  .contat-botom {
+    @apply bg-ocre p-2 rounded-xl font-roboto font-bold text-graylight flex md:gap-3 gap-2 hover:text-black;
+  }
+}
