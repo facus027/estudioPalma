@@ -35,8 +35,8 @@ export default {
       }
     },
     backgroundImage: {
-      'hero-1': "url('https://res.cloudinary.com/dwxwejuvu/image/upload/v1744403235/Abogados/ybwq6hrfu0cvjxtaoxrb.png')",
-      'hero-2': "url('https://res.cloudinary.com/dwxwejuvu/image/upload/v1744403235/Abogados/jelfsegsusfvbieg9k5a.png')",
+      'hero-1': "url('https://res.cloudinary.com/dwxwejuvu/image/upload/f_auto,q_auto/v1744403235/Abogados/ybwq6hrfu0cvjxtaoxrb.png')",
+      'hero-2': "url('https://res.cloudinary.com/dwxwejuvu/image/upload/f_auto,q_auto/v1744403235/Abogados/jelfsegsusfvbieg9k5a.png')",
       },
     },
   },
